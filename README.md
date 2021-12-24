@@ -27,5 +27,6 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width=40 height=40 style="max-width:100%; margin: 0 2px;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width=40 height=40 style="max-width:100%; margin: 0 2px;"></img>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username-xchapeu)](https://github.com/Xchapeu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xchapeu)](https://github.com/xchapeu/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xchapeu&show_icons=true&theme=dracula)
