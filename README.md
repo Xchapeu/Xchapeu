@@ -10,3 +10,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on development with Javascript, ReactJS, NodeJS, HTML, CSS...
 - 📫 How to reach me: dev.rodrigoarb@gmail.com
 -->
+
+<hr>
+
+# My skills
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width=40 height=40 style="max-width:100%; margin: 0 2px;"></img>
