@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dev.rodrigoarb@gmail.com or
 
 <a href="https://www.linkedin.com/in/anderson-rodrigo-barreira-b4b48018b/" target="_blank" rel="noopener noreferrer">
-  <img src"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" width=40 height=40 alt="linkedin" align="center"></img>
+  <img src"https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" width=40 height=40 alt="linkedin" align="center"></img>
 </a>
 
 <hr />
