@@ -8,9 +8,15 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a Hotel Reception Desk
 - 🌱 I’m currently learning programming languages for front-end development.
 - 👯 I’m looking to collaborate on development with Javascript, ReactJS, NodeJS, HTML, CSS...
-- 📫 How to reach me: dev.rodrigoarb@gmail.com or
+- 📫 How to reach me: 
 
-<a href="https://www.linkedin.com/in/anderson-rodrigo-barreira-b4b48018b/" target="_blank" rel="noopener noreferrer">
+
+ - <a href="mailto:dev.rodrigo@gmail.com">
+  <img src="https://img.olhardigital.com.br/uploads/acervo_imagens/2018/10/20181018233712.jpg" width=40 height=40 alt="Logo do Gmail">
+</a>
+
+
+ - <a href="https://www.linkedin.com/in/anderson-rodrigo-barreira-b4b48018b/" target="_blank" rel="noopener noreferrer">
   <img  width=40 height=40 alt="LinkedIn" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;"></img>
 </a>
 
